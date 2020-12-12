@@ -1,0 +1,13 @@
+/* Body - Background Image */
+.backGround{
+    background-image: url("pexels-bri-schneiter-346529.jpg") ;
+    height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navText {
+    font-size:20px;
+}
