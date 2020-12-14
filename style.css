@@ -7,7 +7,53 @@
     background-size: cover;
 }
 
-
+/* Nav Bar Styling */
 .navText {
     font-size:20px;
 }
+
+/* All Sub Pages */
+.contactGrid, .portfolioGrid, .aboutGrid {
+    background: rgba(248,249,250,0.8);
+}
+
+/* Contact Page */
+
+.contactGrid h6 { 
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+}
+
+/* Footer */
+.footer, .soical-icons {
+    color:white;
+}
+
+.footer h4 {
+    font-size:20px;
+}
+
+/* Portfolio Page */
+.portfolioPosition {
+    padding:10px;
+}
+
+/* About Page*/
+.aboutGrid p {
+    font-size:20px;
+    color:black;
+}
+
+/* Welcome Page*/
+
+.welcomePage {
+    margin-top:20%;
+}
+
+.welcomePage h1 {
+    font-size:90px; 
+}
+
+
+

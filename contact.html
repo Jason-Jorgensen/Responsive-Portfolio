@@ -38,16 +38,24 @@
                     <li class="nav-item active">
                         <a class="nav-link mr-3" href="contact.html">Contact<span class="sr-only">(current)</span></a>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Connect</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownId">
+                            <a class="dropdown-item" target="_blank" href="https://www.linkedin.com/in/jasoncjorgensen">Linkedin</a>
+                            <a class="dropdown-item" target="_blank" href="https://github.com/Jason-Jorgensen">Github</a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </nav>
     </header>
 
     <main>
-        <section class="mx-4">
+        <section class="container">
             <div class="row">
-                <div class="col-6 bg-light mx-5 my-5 transparent" style="height:520px">
+                <div class="contactGrid col-sm-6 my-5" style="height:580px">
                     <h1>Contact Me</h1>
+                    <hr>
                     <div class="form-group col-sm-10">
                         <label for=""></dd></label>
                         <small id="nameHelpId" class="form-text text-muted">
@@ -72,10 +80,21 @@
                         <textarea type="text" class="form-control" name="" id="" aria-describedby="nameHelpId"
                             placeholder="Leave me a message..." style="height:135px"></textarea>
                     </div>
+                    <button type="button" class="btn btn-primary mx-3 my-2">Submit</button>
                 </div>
             </div>
+        </section>
     </main>
 
+    <footer class="footer">
+        <div class="row bg-dark fixed-bottom">
+            <div class="col-sm-12">
+                <h4 class="p-3 mb-0 text-muted text-center">&copyCopyright <span class="d-none d-md-inline">2020 Jason Jorgensen</span></h4> 
+            </div>
+
+        </div>
+
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
