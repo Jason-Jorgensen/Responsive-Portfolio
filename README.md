@@ -21,8 +21,8 @@ Used Bootstrap to create a responsive portfolio site.
 - Learned several classes to call different bootstrap functions.
 
 ## Screen Shot
-<img src="Assets\Images\home.JPG" alt="home page Screen shot" width = "200"/>
-<img src="Assets\Images\portfolio.JPG" alt="portolio page Screen shot" width = "200"/>
-<img src="Assets\Images\about.JPG" alt="about page Screen shot" width = "200"/>
-<img src="Assets\Images\contact.jpg" alt="contact page Screen shot" width = "200"/>
+<img src="Assets\Images\home.JPG" alt="home page Screen shot" width = "600"/>
+<img src="Assets\Images\portfolio.JPG" alt="portolio page Screen shot" width = "600"/>
+<img src="Assets\Images\about.JPG" alt="about page Screen shot" width = "600"/>
+<img src="Assets\Images\contact.jpg" alt="contact page Screen shot" width = "600"/>
 
